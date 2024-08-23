@@ -1,6 +1,4 @@
-# KsnLife
-I make Open Source
-
+# LifePom
 <!--
 **ksnlife/ksnlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I make Open Source
+
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,python,flask,fastapi,nodejs,react,bootstrap,tailwind,firebase,mysql,postgresql,git,github,bitbuccket,gitlab,docker,cloudflare,figma" />
+  </a>
+</p>
