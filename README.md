@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 I make Open Source
 
-<p align=center> 
 ![LifePom's father](https://raw.githubusercontent.com/LifePom/LifePom/main/assets/f7694add-7c1e-44ee-859a-022520bf4a26.jpg "LifePom's father")
+<p align=center> 
+<img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/27838147-9161-419a-b58b-ee3f05bf456c alt="SaltyAom's Tingyun cosplay" />
 </p>
 
 <p align=center>
