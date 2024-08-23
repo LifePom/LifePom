@@ -17,6 +17,6 @@ I make Open Source
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,python,flask,fastapi,nodejs,react,bootstrap,tailwind,firebase,mysql,postgresql,git,github,bitbucket,gitlab,docker,cloudflare,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,python,flask,fastapi,nodejs,react,bootstrap,tailwind,firebase,mysql,postgresql,git,github,bitbucket,gitlab,docker,cloudflare,figma,raspberrypi" />
   </a>
 </p>
