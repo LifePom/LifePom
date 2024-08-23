@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I make Open Source
-<img src=https://github.com/user-attachments/assets/280e8cd2-a788-4ede-a9a8-61a30206c33c>
 
-![LifePom's father](https://raw.githubusercontent.com/LifePom/LifePom/main/assets/f7694add-7c1e-44ee-859a-022520bf4a26.jpg "LifePom's father")
 <p align=center> 
-  <img src=https://raw.githubusercontent.com/LifePom/LifePom/main/assets/f7694add-7c1e-44ee-859a-022520bf4a26.jpg>
-  <!--img src=[https://github.com/SaltyAom/SaltyAom/assets/35027979/27838147-9161-419a-b58b-ee3f05bf456c](https://github.com/user-attachments/assets/280e8cd2-a788-4ede-a9a8-61a30206c33c) alt="SaltyAom's Tingyun cosplay" /-->
+  <img src=https://github.com/user-attachments/assets/280e8cd2-a788-4ede-a9a8-61a30206c33c alt="LifePom's father" title="LifePom's father">
 </p>
 
 <p align=center>
