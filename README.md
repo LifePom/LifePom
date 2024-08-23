@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I make Open Source
 
 <p align=center> 
-  <img src=https://github.com/user-attachments/assets/280e8cd2-a788-4ede-a9a8-61a30206c33c alt="LifePom's father" title="LifePom's father">
+  <img src=https://github.com/user-attachments/assets/876c3ff1-1ad8-46d5-8923-b443bb1ef283 alt="LifePom's father" title="LifePom's father">
 </p>
 
 <p align=center>
