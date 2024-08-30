@@ -19,16 +19,23 @@ I make Open Source
   <img src="https://github.com/user-attachments/assets/876c3ff1-1ad8-46d5-8923-b443bb1ef283" alt="LifePom's father" title="LifePom's father">
 </p>
 
-**Common**
+### Common
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
   </a>
 </p>
 
+### Scripting Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery" />
+  </a>
+</p>
+
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,python,flask,fastapi,nodejs,react,firebase,mysql,postgresql,git,github,bitbucket,gitlab,docker,cloudflare,figma,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs,react,firebase,mysql,postgresql,git,github,bitbucket,gitlab,docker,cloudflare,figma,raspberrypi" />
   </a>
 </p>
 
