@@ -19,6 +19,8 @@ I make Open Source
   <img src="https://github.com/user-attachments/assets/876c3ff1-1ad8-46d5-8923-b443bb1ef283" alt="LifePom's father" title="LifePom's father">
 </p>
 
+![download](https://github.com/user-attachments/assets/816e532f-903a-40b6-9e55-e724fff2930c)
+
 ## Frontend Skills
 ### Common
 <p align="left">
