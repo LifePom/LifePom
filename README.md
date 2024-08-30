@@ -19,6 +19,12 @@ I make Open Source
   <img src=https://github.com/user-attachments/assets/876c3ff1-1ad8-46d5-8923-b443bb1ef283 alt="LifePom's father" title="LifePom's father">
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,python,flask,fastapi,nodejs,react,bootstrap,tailwind,firebase,mysql,postgresql,git,github,bitbucket,gitlab,docker,cloudflare,figma,raspberrypi" />
