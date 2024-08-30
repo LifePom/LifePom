@@ -22,7 +22,14 @@ I make Open Source
 ### Common
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
+
+### UI Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" />
   </a>
 </p>
 
@@ -33,9 +40,17 @@ I make Open Source
   </a>
 </p>
 
+### JavaScript Frameworks/Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular" />
+  </a>
+</p>
+
+
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs,react,firebase,mysql,postgresql,git,github,bitbucket,gitlab,docker,cloudflare,figma,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs,firebase,mysql,postgresql,git,github,bitbucket,gitlab,docker,cloudflare,figma,raspberrypi" />
   </a>
 </p>
 
