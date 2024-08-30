@@ -19,7 +19,8 @@ I make Open Source
   <img src="https://github.com/user-attachments/assets/876c3ff1-1ad8-46d5-8923-b443bb1ef283" alt="LifePom's father" title="LifePom's father">
 </p>
 
-![download](https://github.com/user-attachments/assets/816e532f-903a-40b6-9e55-e724fff2930c)
+![pixel_horse32](https://github.com/user-attachments/assets/7e81a4d9-0338-48ae-94b8-acf2233c9630)
+
 
 ## Frontend Skills
 ### Common
