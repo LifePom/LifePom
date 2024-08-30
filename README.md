@@ -52,17 +52,38 @@ I make Open Source
 
 ## Backend Skills
 ### Programming Languages
-<p align=center>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs,go" />
   </a>
 </p>
 
-<p align=center>
+### Frameworks
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs,firebase,mysql,postgresql,git,github,bitbucket,gitlab,docker,cloudflare,figma,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=laravel,express,dotnet" />
   </a>
 </p>
 
+### Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
+  </a>
+</p>
+
+### Server Management
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,nginx,docker,cloudflare,firebase,git,github,bitbucket,gitlab" />
+  </a>
+</p>
+
+### Embedded
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+  </a>
+</p>
 
 ---
